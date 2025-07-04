@@ -11,4 +11,4 @@ cmds = [
 ]
 
 [phases.start]
-cmd = "php artisan serve --host=0.0.0.0 --port=3306"
+cmd = "php artisan serve --host=0.0.0.0 --port=24344"
